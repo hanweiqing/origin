@@ -1,0 +1,73 @@
+2018-04-19T02:29:16.016Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-19T02:29:16.022Z - normal: checking language setting...
+2018-04-19T02:29:16.023Z - normal: Language: zh
+2018-04-19T02:29:18.200Z - success: protocol editor-framework registered
+2018-04-19T02:29:18.200Z - success: protocol app registered
+2018-04-19T02:29:18.200Z - success: protocol theme registered
+2018-04-19T02:29:18.201Z - success: protocol packages registered
+2018-04-19T02:29:18.201Z - success: protocol unpack registerred
+2018-04-19T02:29:18.201Z - success: protocol disable-commonjs registerred
+2018-04-19T02:29:18.206Z - error: { Error: getaddrinfo ENOTFOUND creator-api.cocos.com creator-api.cocos.com:443
+    at errnoException (dns.js:28:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:73:26)
+  code: 'ENOTFOUND',
+  errno: 'ENOTFOUND',
+  syscall: 'getaddrinfo',
+  hostname: 'creator-api.cocos.com',
+  host: 'creator-api.cocos.com',
+  port: 443 }
+    at D:\CocosCreator\resources\app.asar\share\login\lib\user.js:1:1441
+    at ClientRequest.Https.request.on.e (D:\CocosCreator\resources\app.asar\share\login\lib\network.js:1:873)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:191:7)
+    at TLSSocket.socketErrorListener (_http_client.js:358:9)
+    at emitOne (events.js:96:13)
+    at TLSSocket.emit (events.js:191:7)
+    at connectErrorNT (net.js:1032:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+2018-04-19T02:29:18.211Z - normal: failed to connect login server... skipping login
+2018-04-19T02:29:18.212Z - normal: Check project E:\CocosCreatorProject\start_project
+2018-04-19T02:29:18.215Z - normal: Initializing Cocos2d
+2018-04-19T02:29:18.540Z - normal: Initializing Asset Database
+2018-04-19T02:29:18.598Z - success: protocol uuid registerred
+2018-04-19T02:29:18.598Z - success: protocol db registerred
+2018-04-19T02:29:18.598Z - success: protocol thumbnail registerred
+2018-04-19T02:29:18.599Z - normal: Loading editor/builtin packages
+2018-04-19T02:29:18.630Z - success: anysdk loaded
+2018-04-19T02:29:18.846Z - success: assets loaded
+2018-04-19T02:29:18.849Z - success: builder loaded
+2018-04-19T02:29:18.852Z - success: cocos-analytics loaded
+2018-04-19T02:29:18.856Z - success: console loaded
+2018-04-19T02:29:18.907Z - success: fb-instant-games loaded
+2018-04-19T02:29:18.912Z - success: hierarchy loaded
+2018-04-19T02:29:18.916Z - success: inspector loaded
+2018-04-19T02:29:18.918Z - success: keystore loaded
+2018-04-19T02:29:18.922Z - success: node-library loaded
+2018-04-19T02:29:18.925Z - success: package-asset loaded
+2018-04-19T02:29:18.928Z - success: preferences loaded
+2018-04-19T02:29:18.931Z - success: project-exporter loaded
+2018-04-19T02:29:18.952Z - success: project-importer loaded
+2018-04-19T02:29:18.954Z - success: project-settings loaded
+2018-04-19T02:29:18.957Z - success: ui-kit loaded
+2018-04-19T02:29:18.960Z - success: ui-grid loaded
+2018-04-19T02:29:18.964Z - success: scene loaded
+2018-04-19T02:29:18.967Z - success: sprite-editor loaded
+2018-04-19T02:29:18.972Z - success: store loaded
+2018-04-19T02:29:18.977Z - success: timeline loaded
+2018-04-19T02:29:18.978Z - normal: Loading builtin packages
+2018-04-19T02:29:18.981Z - success: asset-db-debugger loaded
+2018-04-19T02:29:18.983Z - success: code-editor loaded
+2018-04-19T02:29:18.985Z - success: color-picker loaded
+2018-04-19T02:29:18.988Z - success: package-manager loaded
+2018-04-19T02:29:18.994Z - success: sdkbox loaded
+2018-04-19T02:29:18.998Z - success: tester loaded
+2018-04-19T02:29:19.001Z - success: ui-kit-preview-extra loaded
+2018-04-19T02:29:19.004Z - success: ui-kit-preview loaded
+2018-04-19T02:29:19.006Z - success: ui-tree loaded
+2018-04-19T02:29:20.714Z - normal: Initializing project E:\CocosCreatorProject\start_project
+2018-04-19T02:29:20.718Z - normal: Loading packages
+2018-04-19T02:29:20.725Z - normal: Watching packages
+2018-04-19T02:29:20.745Z - normal: Run Application
+2018-04-19T02:29:21.463Z - success: preview server running at http://localhost:7456
+2018-04-19T02:29:28.340Z - normal: 1.9.0
+2018-04-19T03:45:15.526Z - info: shutdown preview server
